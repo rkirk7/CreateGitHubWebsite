@@ -1,7 +1,5 @@
 <h1>How to Create a GitHub Website</hi>
   
-How to Run: This is information someone would use to get started running your project on their machine. 
-
 <h2>Description</h2>
 
 This guide was created as part of the MITxEmeritus course.
